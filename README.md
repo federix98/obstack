@@ -2,6 +2,10 @@
 
 ## Initialization
 
+Download backup [from this link](https://univaq-my.sharepoint.com/:u:/g/personal/luca_traini_univaq_it/EeclQo3U0cBGvsgI3ATok0wBWLxnt92Rgy5ANUuT0EK3Ag?e=Dk5FHc)
+
+Then run the following command
+
 ``bash restore_backup.sh``
 
 ## Launch
