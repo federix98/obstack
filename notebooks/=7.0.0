@@ -1,0 +1,4 @@
+Requirement already satisfied: elasticsearch in ./env/lib/python3.9/site-packages (8.2.0)
+Requirement already satisfied: elastic-transport<9,>=8 in ./env/lib/python3.9/site-packages (from elasticsearch) (8.1.2)
+Requirement already satisfied: certifi in ./env/lib/python3.9/site-packages (from elastic-transport<9,>=8->elasticsearch) (2022.5.18.1)
+Requirement already satisfied: urllib3<2,>=1.26.2 in ./env/lib/python3.9/site-packages (from elastic-transport<9,>=8->elasticsearch) (1.26.9)
