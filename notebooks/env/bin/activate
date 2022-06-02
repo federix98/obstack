@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/dimenna/AVV/git/notebooks/env"
+VIRTUAL_ENV="/home/dimenna/AVV/git/obstack/notebooks/env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

@@ -1,0 +1,13 @@
+import pyRAPL
+
+pyRAPL.setup()
+
+@pyRAPL.measureit
+def foo():
+	i = 0
+	while(i<100000):
+		print(i)
+		i = i + 1
+
+foo()
+

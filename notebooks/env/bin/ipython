@@ -1,4 +1,4 @@
-#!/home/dimenna/AVV/git/notebooks/env/bin/python3
+#!/home/dimenna/AVV/git/obstack/notebooks/env/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
